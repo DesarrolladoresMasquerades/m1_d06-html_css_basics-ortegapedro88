@@ -1,0 +1,10 @@
+.menu {
+    border:darkmagenta
+}
+.menu a {
+    color: darkgreen;
+    text-decoration: none;
+    border-left: 2px darkmagenta ;
+    border-right: 2px darkmagenta;
+}
+
